@@ -7,17 +7,15 @@ export default function HomePage() {
     <Layout>
       <main className="relative min-h-screen flex flex-col items-center justify-center text-center overflow-hidden">
 
-        {/* Video de Pixabay incrustado */}
-        <div className="absolute inset-0 w-full h-full">
-          <iframe
-            src="https://player.vimeo.com/video/204083?autoplay=1&muted=1&controls=0&loop=1"
-            className="w-[140%] h-[140%] absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 object-cover"
-            frameBorder="0"
-            allow="autoplay; encrypted-media"
-            allowFullScreen
-            title="Background Video"
-          ></iframe>
-        </div>
+        {/* Video de fondo en autoplay */}
+        <video 
+          autoPlay 
+          loop 
+          muted 
+          className="absolute inset-0 w-full h-full object-cover"
+        >
+          <source src="https://www.videvo.net/videvo_files/converted/2021_01/preview/210108_06_TechBackground_1080p.mp4" type="video/mp4" />
+        </video>
 
         {/* Capa de superposición para oscurecer y mejorar la visibilidad del texto */}
         <div className="absolute inset-0 bg-black bg-opacity-50"></div>
