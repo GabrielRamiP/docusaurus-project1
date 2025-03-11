@@ -1,12 +1,7 @@
 
 ---
 
-## 🚀 **6. Archivo:** `apis.md` (Explicación de APIs)  
-👉 📄 Ruta: `my-docs/docs/apis.md`  
-👉 **Copia y pega esto:**  
-
-### ✅ **apis.md**
-```markdown
+## 🚀 
 ---
 title: ¿Qué es una API?
 ---

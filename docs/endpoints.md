@@ -1,11 +1,7 @@
 
 ---
 
-## 🚀 **4. Archivo:** `endpoints.md` (Explicación de endpoints)  
-👉 📄 Ruta: `my-docs/docs/endpoints.md`  
-👉 **Copia y pega esto:**  
-
-### ✅ **endpoints.md**
+## 🚀 
 ```markdown
 ---
 title: ¿Qué es un Endpoint?

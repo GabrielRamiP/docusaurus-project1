@@ -1,9 +1,7 @@
 
 ---
 
-## 🚀 **3. Archivo:** `controladores.md` (Explicación de controladores)  
-👉 📄 Ruta: `my-docs/docs/controladores.md`  
-👉 **Copia y pega esto:**  
+## 🚀
 
 ### ✅ **controladores.md**
 ```markdown

@@ -1,9 +1,9 @@
 
 ---
 
-## 🚀 **7. Archivo:** `mongoose.md` (Explicación de Mongoose)  
-👉 📄 Ruta: `my-docs/docs/mongoose.md`  
-👉 **Copia y pega esto:**  
+## 🚀 
+
+
 
 ### ✅ **mongoose.md**
 ```markdown

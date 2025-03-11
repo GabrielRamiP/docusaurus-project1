@@ -16,6 +16,13 @@ const sidebars = {
         'mongoose',
       ],
     },
+    {
+      type: 'category',
+      label: 'FrontEnd', // Nuevo menú desplegable
+      items: [
+        'frontend/ButtonComponent', // Agregando el archivo ButtonComponent.md
+      ],
+    },
   ],
 };
 
