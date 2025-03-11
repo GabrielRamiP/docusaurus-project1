@@ -5,7 +5,7 @@ const sidebars = {
   tutorialSidebar: [
     {
       type: 'category',
-      label: 'Guía de Express con Node.js',  // Asegúrate de que este nombre de categoría sea correcto
+      label: 'Guía de Express con Node.js',  
       items: [
         'express',
         'nodejs',
@@ -18,9 +18,9 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'FrontEnd', // Nuevo menú desplegable
+      label: 'Frontend',   // Ahora aparecerá "Frontend"
       items: [
-        'frontend/ButtonComponent', // Agregando el archivo ButtonComponent.md
+        'frontend/buttoncomponent',  // Corregí la ruta del archivo .md
       ],
     },
   ],
