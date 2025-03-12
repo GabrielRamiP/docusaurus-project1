@@ -31,7 +31,7 @@ export default function HomePage() {
           transition={{ duration: 1 }}
         >
           <h1 className="text-5xl md:text-7xl font-extrabold text-white mb-6 drop-shadow-lg">
-            Docusaurus Pro 🚀
+            BIENVENIDOS🚀
           </h1>
           <p className="text-xl text-gray-200 mb-8">
             Documentación moderna y profesional para tu empresa.
